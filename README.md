@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web Development, Illustrations and Animations
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web authoring
-- 📫 How to reach me - Whatsapp messages
+- 📫 How to reach me - email
 
 <!---
 Artrhymes/Artrhymes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
