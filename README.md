@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artrhymes
-- 👀 I’m interested in Animations
+- 👀 I’m interested in Full-Stack Web Development, Illustrations and Animations
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web authoring
 - 📫 How to reach me - Whatsapp messages
